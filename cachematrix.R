@@ -12,7 +12,6 @@
 ## [4,] -0.5080576 -0.4147343 -0.9020221  0.1392848
 
 
-
 ## Create a special "matrix", which is a list containing
 ## a function to
 ##   - set the value of the matrix
@@ -36,7 +35,6 @@ makeCacheMatrix <- function(x = matrix()) {
     getinverse = getinverse
   )
 }
-
 
 
 ##  Berechnung der Umkehrung
